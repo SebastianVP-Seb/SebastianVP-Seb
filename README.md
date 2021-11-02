@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![GitHub Views](https://komarev.com/ghpvc/?username=SebastianVP-Seb&color=2685BF)
 
 ## CONTACTO
-- LinkedIn: [Sebastian Vázquez Palacios](https://www.linkedin.com/in/sebasti%C3%A1n-v%C3%A1zquez-palacios/)
+- LinkedIn: [Sebastian Vázquez Palacios](https://www.linkedin.com/in/sebasti%C3%A1n-v%C3%A1zquez-palacios-2aa463179/)
 - Instagram: [i.am.sebastian.official](https://www.instagram.com/i.am.sebastian.official/)
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/SebastianVP-Seb/SebastianVP-Seb">
