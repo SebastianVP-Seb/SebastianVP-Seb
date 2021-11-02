@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Views](https://komarev.com/ghpvc/?username=SebastianVP-Seb&color=2685BF)
+
+## CONTACTO
+- LinkedIn: [linkedin.com/in/sebasti%C3%A1n-v%C3%A1zquez-palacios](https://www.linkedin.com/in/sebasti%C3%A1n-v%C3%A1zquez-palacios/)
+- Instagram: [instagram.com/i.am.sebastian.official](https://www.instagram.com/i.am.sebastian.official/)
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/SebastianVP-Seb/SebastianVP-Seb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomireles&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
+<a href="https://github.com/fernandomireles/fernandomireles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastianVP-Seb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SebastianVP-Seb's GitHub Stats" />
+</a>
