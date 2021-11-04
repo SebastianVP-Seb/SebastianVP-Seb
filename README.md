@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![GitHub Views](https://komarev.com/ghpvc/?username=SebastianVP-Seb&color=2685BF)
 
 ## CONTACTO
-- LinkedIn: [<img align="center" src="https://img.icons8.com/fluency/48/fa314a/linkedin.png"/>](https://www.linkedin.com/in/sebasti%C3%A1n-v%C3%A1zquez-palacios-2aa463179/)
+- LinkedIn: [<img align="center" target="_blank" src="https://img.icons8.com/fluency/48/fa314a/linkedin.png"/>](https://www.linkedin.com/in/sebasti%C3%A1n-v%C3%A1zquez-palacios-2aa463179/)
 - Instagram: [<img align="center" src="https://img.icons8.com/fluency/48/fa314a/instagram-new.png"/>](https://www.instagram.com/i.am.sebastian.official/)
 - 
 
