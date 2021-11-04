@@ -1,5 +1,3 @@
-# Hi there, my name is Sebastian
-
 <!--
 **SebastianVP-Seb/SebastianVP-Seb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="100%" src="https://user-images.githubusercontent.com/71723969/140421821-d5106bf8-ea8f-4cb3-84ea-34c235c118b3.jpg" />
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=SebastianVP-Seb&color=2685BF)
 
 ## CONTACTO
