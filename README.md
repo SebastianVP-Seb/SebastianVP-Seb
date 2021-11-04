@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ## CONTACTO
 - LinkedIn: [<img align="center" target="_blank" src="https://img.icons8.com/fluency/48/fa314a/linkedin.png"/>](https://www.linkedin.com/in/sebasti%C3%A1n-v%C3%A1zquez-palacios-2aa463179/)
 - Instagram: [<img align="center" src="https://img.icons8.com/fluency/48/fa314a/instagram-new.png"/>](https://www.instagram.com/i.am.sebastian.official/)
-- 
 
 ## TOOLS
   ![]() ![]()
@@ -28,6 +27,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://img.icons8.com/ios-filled/50/fa314a/sass.png"/>
   <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   <img align="center" src="https://img.icons8.com/plasticine/60/4a90e2/react.png"/>
+  <img align="center" src="https://img.icons8.com/color/96/fa314a/java-coffee-cup-logo--v1.png"/>
   <img align="center" src="https://img.icons8.com/color/48/26e07f/android-studio--v2.png"/>
   <img align="center" src="https://img.icons8.com/ios-glyphs/60/4a90e2/github.png"/>
 
