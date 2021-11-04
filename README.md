@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ## TOOLS
   ![]() ![]()
   <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/4a90e2/css.png"/>
+  <img align="center" src="https://img.icons8.com/ios-filled/50/fa314a/css.png"/>
   <img align="center" src="https://img.icons8.com/ios-filled/50/fa314a/sass.png"/>
   <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-  <img align="center" src="https://img.icons8.com/plasticine/100/4a90e2/react.png"/>
+  <img align="center" src="https://img.icons8.com/plasticine/60/4a90e2/react.png"/>
   <img align="center" src="https://img.icons8.com/color/48/26e07f/android-studio--v2.png"/>
   <img align="center" src="https://img.icons8.com/ios-glyphs/60/4a90e2/github.png"/>
 
