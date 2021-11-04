@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - Instagram: [i.am.sebastian.official](https://www.instagram.com/i.am.sebastian.official/)
 
 ## TOOLS
+  ![]() ![]()
   <img align="center" src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png"/>
   <img align="center" src="https://img.icons8.com/ios-filled/50/fa314a/css.png"/>
   <img align="center" src="https://img.icons8.com/ios-filled/50/fa314a/sass.png"/>
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://img.icons8.com/plasticine/100/4a90e2/react.png"/>
   <img align="center" src="https://img.icons8.com/color/48/26e07f/android-studio--v2.png"/>
   <img align="center" src="https://img.icons8.com/ios-glyphs/60/000000/github.png"/>
-</a>
 
 ## My GitHub Stats
 <a target='_blank' href="https://github.com/SebastianVP-Seb/SebastianVP-Seb">
