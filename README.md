@@ -32,11 +32,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://img.icons8.com/ios-glyphs/60/4a90e2/github.png"/>
 
 ## My GitHub Stats
-<a target='_blank' href="https://github.com/SebastianVP-Seb/SebastianVP-Seb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVP-Seb&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://github.com/SebastianVP-Seb/SebastianVP-Seb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastianVP-Seb&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&bg_color=DEG,68093A,D04103&hide=issues&hide_border=true"/>
 </a>
 <a href="https://github.com/SebastianVP-Seb/SebastianVP-Seb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastianVP-Seb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SebastianVP-Seb's GitHub Stats" />
+  <img align="center" background-color="transparent" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVP-Seb&hide=ruby&card_width=300&layout=compact&text_color=FFFFFF&title_color=FFFFFF&border_color=373E47&bg_color=22272E" />
+</a>
   
 
 
